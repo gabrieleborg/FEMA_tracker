@@ -1,0 +1,15 @@
+name: fema
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - poetry=1.1
+  - r-base=4.1
+  - r-tidyverse
+  - r-devtools
+  - r-data.table
